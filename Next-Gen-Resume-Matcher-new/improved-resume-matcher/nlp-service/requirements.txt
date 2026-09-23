@@ -1,0 +1,23 @@
+# Core Flask
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# ML / NLP
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Advanced semantic matching
+# Comment out if running in memory-constrained env (< 2GB RAM)
+# The system auto-falls back to TF-IDF if these are missing
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# Document parsing
+pdfminer.six>=20221105
+python-docx>=0.8.11
+
+# Utilities
+python-dotenv>=1.0.0
+gunicorn>=21.2.0

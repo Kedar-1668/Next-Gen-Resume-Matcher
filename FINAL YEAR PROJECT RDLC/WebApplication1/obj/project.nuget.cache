@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjIY1YhkbJw=",
+  "success": true,
+  "projectFilePath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kedar\\.nuget\\packages\\aspnetcore.reporting\\2.1.0\\aspnetcore.reporting.2.1.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\aspnetcore.reportingservices\\2.1.0\\aspnetcore.reportingservices.2.1.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\microsoft.codedom.providers.dotnetcompilerplatform\\4.1.0\\microsoft.codedom.providers.dotnetcompilerplatform.4.1.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.codedom\\4.5.0\\system.codedom.4.5.0.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.data.sqlclient\\4.5.1\\system.data.sqlclient.4.5.1.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.security.permissions\\10.0.8\\system.security.permissions.10.0.8.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.servicemodel.http\\4.5.3\\system.servicemodel.http.4.5.3.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512",
+    "C:\\Users\\kedar\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 11.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.5.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
+      "projectPath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.5.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "projectPath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform 4.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\FINAL YEAR PROJECT RDLC\\FINAL YEAR PROJECT RDLC\\WebApplication1\\WebApplication1.csproj",
+      "libraryId": "Microsoft.CodeDom.Providers.DotNetCompilerPlatform",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

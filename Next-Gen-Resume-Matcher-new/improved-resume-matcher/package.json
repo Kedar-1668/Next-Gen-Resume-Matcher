@@ -1,0 +1,14 @@
+{
+  "name": "next-gen-resume-matcher",
+  "version": "1.0.0",
+  "description": "AI-Powered Recruitment Engine using MERN Stack",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

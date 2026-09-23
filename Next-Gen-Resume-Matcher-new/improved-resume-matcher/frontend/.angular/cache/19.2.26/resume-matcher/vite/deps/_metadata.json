@@ -1,0 +1,82 @@
+{
+  "hash": "e3530296",
+  "configHash": "58329896",
+  "lockfileHash": "d0daae56",
+  "browserHash": "2ec190bf",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "62a5f510",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "2df77999",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "dddb0959",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "410e8b1c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ab65893c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "f82429c3",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "b521ac10",
+      "needsInterop": false
+    },
+    "rxjs/internal/operators/tap": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/internal/operators/tap.js",
+      "file": "rxjs_internal_operators_tap.js",
+      "fileHash": "08974a47",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-A2WTISDK": {
+      "file": "browser-A2WTISDK.js"
+    },
+    "chunk-2XX56BIN": {
+      "file": "chunk-2XX56BIN.js"
+    },
+    "chunk-QOPPZSLZ": {
+      "file": "chunk-QOPPZSLZ.js"
+    },
+    "chunk-PI7VPIXC": {
+      "file": "chunk-PI7VPIXC.js"
+    },
+    "chunk-LSVF6QCF": {
+      "file": "chunk-LSVF6QCF.js"
+    },
+    "chunk-3RHTJW5J": {
+      "file": "chunk-3RHTJW5J.js"
+    },
+    "chunk-5THSF5YZ": {
+      "file": "chunk-5THSF5YZ.js"
+    },
+    "chunk-ITWMSWIA": {
+      "file": "chunk-ITWMSWIA.js"
+    }
+  }
+}
